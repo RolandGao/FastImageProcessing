@@ -1,0 +1,6 @@
+mako
+opencv-python
+pip-chill
+pytools
+scikit-image
+torchvision
